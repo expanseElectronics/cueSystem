@@ -1,4 +1,4 @@
-<h3 align="center"><a href="https://spicetify.app/"><img src="https://i.imgur.com/iwcLITQ.png" width="600px"></a></h3>
+<h3 align="center"><a href="https://expanseelectronics.com/"><img src="https://imgur.com/a/9hn31d8" width="600px"></a></h3>
 <p align="center">
   <a href="https://github.com/expanseElectronics/cueSystem/releases/latest"><img src="https://img.shields.io/github/release/expanseelectronics/cuesystem/all.svg?colorB=97CA00?label=version"></a>
   <a href="https://github.com/expanseElectronics/cueSystem/releases"><img src="https://img.shields.io/github/downloads/expanseElectronics/cueSystem/total.svg?colorB=97CA00"></a>
