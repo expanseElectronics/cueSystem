@@ -8,8 +8,8 @@
 ---
 
 
-Command-line tool to customize the official Spotify client.
-Supports Windows, MacOS and Linux.
+Affordable cue lights system for venues. 
+Supports existing cable infrastructure. 
 
 <img src="https://github.com/spicetify/spicetify-cli/blob/master/.github/assets/logo.png" alt="img" align="right" width="560px" height="400px">  
 
