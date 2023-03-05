@@ -1,7 +1,7 @@
 <h3 align="center"><a href="https://spicetify.app/"><img src="https://i.imgur.com/iwcLITQ.png" width="600px"></a></h3>
 <p align="center">
   <a href="https://github.com/expanseElectronics/cueSystem/releases/latest"><img src="https://img.shields.io/github/release/expanseelectronics/cuesystem/all.svg?colorB=97CA00?label=version"></a>
-  <a href="https://github.com/spicetify/spicetify-cli/releases"><img src="https://img.shields.io/github/downloads/spicetify/spicetify-cli/total.svg?colorB=97CA00"></a>
+  <a href="https://github.com/expanseElectronics/cueSystem/releases"><img src="https://img.shields.io/github/downloads/expanseElectronics/cueSystem/total.svg?colorB=97CA00"></a>
   <a href="https://discord.gg/VnevqPp2Rr"><img src="https://img.shields.io/discord/842219447716151306?label=chat&logo=discord&logoColor=discord"></a>
   <a href="https://www.reddit.com/r/spicetify"><img src="https://img.shields.io/reddit/subreddit-subscribers/spicetify?logo=reddit"></a>
 </p>
