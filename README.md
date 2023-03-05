@@ -11,7 +11,7 @@
 Affordable cue lights system for venues. 
 Supports existing cable infrastructure. 
 
-<img src="https://expanseelectronics.com/images/collage.png" alt="img" align="right" width="560px" height="400px">  
+<img src="https://expanseelectronics.com/images/collage.png" align="right" width="560px" height="560px">  
 
 ### Features
 - Change colors whole UI
