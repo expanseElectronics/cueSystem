@@ -11,7 +11,7 @@
 Affordable cue lights system for venues. 
 Supports existing cable infrastructure. 
 
-<img src=".github/renders/collage.png" alt="img" align="right" width="560px" height="400px">  
+<img src="renders/collage.png" alt="img" align="right" width="560px" height="400px">  
 
 ### Features
 - Change colors whole UI
