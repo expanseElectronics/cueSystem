@@ -14,15 +14,16 @@ Supports existing cable infrastructure.
 <img src=".github/assets/collage.png" alt="img" align="right" width="560px" height="560px">  
 
 ### Features
-- Change colors whole UI
-- Inject CSS for advanced customization
-- Inject Extensions (Javascript script) to extend functionalities, manipulate UI and control player.
-- Inject Custom apps
-- Remove bloated components to improve performance
+- Ethernet based communication between controller and base station. 
+- Rugged, powder coated, steel controller. 
+- Fully PoE Powered
+- Small, lightweight remote modules. 
+- Centerally based controller. 
+- No additional hardware needed.
 
 
 ### Links
-- [Installation](https://spicetify.app/docs/getting-started)
-- [Basic Usage](https://spicetify.app/docs/getting-started#basic-usage)
-- [FAQ](https://spicetify.app/docs/faq)
+- [Website](https://expanseelectronics.com/)
+- [Contact Us](https://expanseelectronics.com/contact)
+- [Support Us]([https://spicetify.app/docs/faq](https://www.patreon.com/bePatron?u=87948670&redirect_uri=https%3A%2F%2Fexpanseelectronics.com%2F&utm_medium=widget))
   
