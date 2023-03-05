@@ -11,7 +11,7 @@
 Affordable cue lights system for venues. 
 Supports existing cable infrastructure. 
 
-<img src="https://github.com/spicetify/spicetify-cli/blob/master/.github/assets/logo.png" alt="img" align="right" width="560px" height="400px">  
+<img src="https://expanseelectronics.com/images/mcollage.png" alt="img" align="right" width="560px" height="400px">  
 
 ### Features
 - Change colors whole UI
