@@ -25,5 +25,5 @@ Supports existing cable infrastructure.
 ### Links
 - [Website](https://expanseelectronics.com/)
 - [Contact Us](https://expanseelectronics.com/contact)
-- [Support Us]([https://spicetify.app/docs/faq](https://www.patreon.com/bePatron?u=87948670&redirect_uri=https%3A%2F%2Fexpanseelectronics.com%2F&utm_medium=widget))
+- [Support Us](https://www.patreon.com/bePatron?u=87948670&redirect_uri=https%3A%2F%2Fexpanseelectronics.com%2F&utm_medium=widget)
   
