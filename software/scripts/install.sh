@@ -9,6 +9,8 @@ if [ "$EUID" -ne 0 ]
   exit
 fi
 
+python3.10 -m pip install --upgrade pip
+
 apt-get update
 apt install python3 -y
 pip install pyserial websocket-client
