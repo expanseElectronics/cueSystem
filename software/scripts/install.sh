@@ -4,7 +4,7 @@ set echo off
 
 echo "Installing cueServer."
 
-cd cueSystem/software/
+git clone https://github.com/expanseElectronics/cueSystem
 
 if [ "$EUID" -ne 0 ]
   then echo "Please re-run the install scrhipt as root."
@@ -17,15 +17,11 @@ apt-get update
 apt install python3 -y
 pip install pyserial websocket-client
 
-cp -i cueController.py /bin
+cp -i cueSystem/software/cueController.py /bin
 
 crontab -l > mycron
 echo "@reboot python cueController.py &" >> mycron
 crontab mycron
 rm mycron
-
-cd
-
-rm -rf cueSystem/
 
 exit
