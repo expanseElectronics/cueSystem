@@ -3,6 +3,7 @@
   <a href="https://github.com/expanseElectronics/cueSystem/releases/latest"><img src="https://img.shields.io/github/release/expanseelectronics/cuesystem/all.svg?colorB=97CA00?label=version"></a>
   <a href="https://github.com/expanseElectronics/cueSystem/releases"><img src="https://img.shields.io/github/downloads/expanseelectronics/cuesystem/total.svg?colorB=97CA00"></a>
   <a href="https://github.com/expanseElectronics/cueSystem/releases"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/expanseelectronics/cuesystem"></a>
+  <a href="https://github.com/expanseElectronics/cueSystem/releases"><img alt="Build status" src="https://img.shields.io/github/actions/workflow/status/expanseElectronics/cueSystem/python-package.yml"></a>
 </p>
 
 ---
