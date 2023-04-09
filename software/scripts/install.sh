@@ -17,6 +17,11 @@ apt-get update
 apt install python3 -y
 pip install pyserial websocket-client
 
+crontab -l > mycron
+echo "00 09 * * 1-5 echo hello" >> mycron
+crontab mycron
+rm mycron
+
 python cueController.py
 
 exit
