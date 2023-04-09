@@ -12,7 +12,7 @@ try:
     ser = serial.Serial(device, 9600)
 except serial.SerialException:
     print("Couldn't connect to Arduino on %s" % device)
-    exit(1)
+    exit(0)
 
 
 class SerialWorker(Thread):
