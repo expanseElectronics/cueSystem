@@ -17,6 +17,6 @@ apt-get update
 apt install python3 -y
 pip install pyserial websocket-client
 
-python cueSystem/software/cueController.py
+python cueController.py
 
 exit
