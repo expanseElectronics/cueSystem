@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set echo off
+exec > /dev/null 2>&1
 
 echo "Installing cueServer."
 
